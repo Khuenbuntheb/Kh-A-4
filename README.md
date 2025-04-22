@@ -30,23 +30,6 @@
 	width: 24.99999%;
 	}
 	
-	@media only screen and (max-width: 700px)
-	{ .responsive{
-    padding: 0 6px;
-	width: 49.99999%;
-	}
-	}
-	@media only screen and (max-width: 500px)
-	{ .responsive{
-	width: 100%;
-	}
-	}
-    .clearfix:after
-	{
-	content:
-	display: table;
-	clear : both;
-	}
 </style>
 </head>
 <body>
