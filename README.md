@@ -86,7 +86,7 @@ parts). Some mints and mints</p>
 	<img id="expandedImg" style="width:100%">
 	<div id="imgtex"></div>
 </div>
-<h2 style="color:Gold;background-color:#212f3c;"><img src="Diamond.png" style="width:40px;heigth:300px;">Natural diamond</h2>
+<h2 style="color:Gold;background-color:#212f3c;"><img src="diamond.png" style="width:40px;heigth:300px;">Natural diamond</h2>
 <p>Most natural diamonds have ages between 1 billion and 3.5 billion years. Most were formed at depths between 150 and 250 kilometres (93 and 155 mi) Natural Diamonds is the destination
 for all things natural diamonds. Get diamond style & engagement ring inspiration</P>
 <div style="text-align:center">
