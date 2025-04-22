@@ -43,7 +43,7 @@
 <p>
 Our team of design consultants guides you through each step of designing the perfect ring. Get expert advice and guidance on your diamond or gemstone choice and ring design. Free Sketch Design. Diamond jewellery Diamond Jewelry Set Diamond Jewelry Designs Diamond Bracelet Design Diamond Bracelet Gold Bracelet Simple Gold Bracele 
 </p>
-<h2 style="color:Gold;background-color:#212f3c;"><img src="Gold.png" style="width:40px;heigth:300px;">Gold 999</h2>
+<h2 style="color:Gold;background-color:#212f3c;"><img src="gold.png" style="width:40px;heigth:300px;">Gold 999</h2>
 <P>Gold Cast Bar 1 Kg (999.9) Gold Grain 1000 Grams (995.0) (999.9) Purity Pure gold has 24 carats - that is, 24/24 parts by weight of gold - and thus a fineness of 999.9(999.9 thousand
 parts). Some mints and mints</p>
 <div style="text-align:center">
