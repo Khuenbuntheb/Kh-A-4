@@ -290,7 +290,7 @@ Jewellery</p>
 <div class="responsive">
     <div class="gallery">
      <a target="_blank" href="gold1.jpg">
-	    <img src="bracelet4.jpg" width="200" height="200">
+	    <img src="Bracelet4.jpg" width="200" height="200">
      </a>
     <div class="desu">Bracelet Diamond</div>
     </div>
