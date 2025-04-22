@@ -216,7 +216,7 @@ timeless and versatile pieces of jewelry. They have been worn by women for centu
 	<img id="expandedImg" style="width:100%">
 	<div id="imgtex"></div>
 </div>
-<h2 style="color:Gold;background-color:#212f3c;"><img src="Necklace.jpeg" style="width:40px;heigth:300px;">Necklace</h2>
+<h2 style="color:Gold;background-color:#212f3c;"><img src="necklace.jpeg" style="width:40px;heigth:300px;">Necklace</h2>
 <p>Discover our Range of Diamond Bracelets. Timeless Bespoke In-house and International Designs. Luxury Specialists. Bridal Jewellery. Specialty Diamonds. Exclusive Collections. Iconic
 Jewellery</p>
 <div style="text-align:center">
